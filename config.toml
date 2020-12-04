@@ -1,3 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hugo Single Course Prototype"
+theme = "hugo-course-publisher/site/themes/standalone_course"
+[module]
+  [[module.imports]]
+    ignoreConfig = true
+    path = "hugo-course-publisher/site"
+  [[module.imports]]
+    path = "hugo-course-publisher/site/themes/standalone_course"
