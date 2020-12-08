@@ -1,4 +1,0 @@
-[submodule "themes/hugo-course-publisher"]
-	path = themes/hugo-course-publisher
-	url = https://github.com/mitodl/hugo-course-publisher.git
-	branch = cg/standalone-course-prototype
