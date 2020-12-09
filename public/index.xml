@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course Home on Hugo Single Course Prototype</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Course Home on Hugo Single Course Prototype</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2D API, 2D Transformations</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Classes/Methods and Interfaces</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arrays, Arraylists</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class and Objects</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classes and Objects</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classes II</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Types, More Operators</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Lab I - Inheritance</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Lab II- Swing</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Lab III - Sensors</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final</title>
+      <link>http://example.org/sections/exams/mit1_00s12_final_f10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_final_f10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final</title>
+      <link>http://example.org/sections/exams/mit1_00s12_final_f11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_final_f11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final</title>
+      <link>http://example.org/sections/exams/mit1_00s12_final_s10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_final_s10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Final_Review</title>
+      <link>http://example.org/sections/exams/mit1_00s12_final_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_final_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install Eclipse for Mac OS</title>
+      <link>http://example.org/sections/tools/mit1_00s12_ins_eclpse_mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/tools/mit1_00s12_ins_eclpse_mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install Eclipse for Windows</title>
+      <link>http://example.org/sections/tools/mit1_00s12_insl_eclpse_win/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/tools/mit1_00s12_insl_eclpse_win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install Java for Mac OS</title>
+      <link>http://example.org/sections/tools/mit1_00s12_ins_java_mac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/tools/mit1_00s12_ins_java_mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install Java for Windows</title>
+      <link>http://example.org/sections/tools/mit1_00s12_insl_java_win/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/tools/mit1_00s12_insl_java_win/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to install Phidgets</title>
+      <link>http://example.org/sections/tools/mit1_00s12_phidget_inst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/tools/mit1_00s12_phidget_inst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inheritance II: Abstract classes, methods</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inheritance III: Interfaces</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inheritance: Subclasses</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inner Classes, Layout Managers</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instructor Insights</title>
+      <link>http://example.org/sections/instructor-insights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/instructor-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_32/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Development Environment: Eclipse</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Swing</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iteration and Methods</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAVA and Eclipse - Data Types, Variables, Logical Operators</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Systems</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_31/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linked Lists, Sorting, Stack &amp; Queues</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lists</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_36/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_30/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrices, Linear Systems, Integration</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and Objects, Access</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and Scope</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-View-Controller, Timers</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Data Types, Control Structures, Intro to Methods</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operators, Control Structures</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operators, Control Structures</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phidget Setup, Model-View-Controller, 2D API, Affline Transformations</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 0</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 10</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 11</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 2</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 4</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 5</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 6 and 7</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_6and7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_6and7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 8</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Set 9</title>
+      <link>http://example.org/sections/assignments/mit1_00s12_ps_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/assignments/mit1_00s12_ps_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 1</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz1_s10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz1_s10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 1</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz1_s11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz1_s11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 1</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz_1_s12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz_1_s12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 1 review</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz_1_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz_1_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 2</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz2_f08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz2_f08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 2</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz2_s10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz2_s10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 2</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz2_s11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz2_s11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 2</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz_2_s12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz_2_s12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quiz 2 review</title>
+      <link>http://example.org/sections/exams/mit1_00s12_quiz_2_review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/exams/mit1_00s12_quiz_2_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>http://example.org/sections/readings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/readings/</guid>
+      <description>Textbooks Recommended Text:  Horstmann, Cay. Big Java. 4th ed. Wiley, 2009. ISBN: 9780470509487. [Preview with Google Books] Look for discounted pricing, and you may be able to find it used. You may use the 3rd edition.
+Optional NR:  Press, William, Saul Teukolsky, et al. Numerical Recipes in C: The Art of Scientific Computing. Cambridge University Press, 1992. ISBN: 9780521437202. [Preview with Google Books]
+Phidgets documentation
+The following table lists readings from the required and optional texts.</description>
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursion, Inheritance</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Root Finding</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_33/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors I</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensors II</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sorting</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_34/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacks, Queues</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_35/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Array &amp; ArrayList</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Methods and Data</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storing Data: Trees, Hash Tables</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_37/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream and Phidget</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streams I, Exceptions</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streams II</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swing Event Model</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swing, Frame Customization, Events</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://example.org/sections/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/syllabus/</guid>
+      <description>Course Meeting Times Lectures: 3 sessions / week, 1.5 hours / session
+Recitations: 1 session / week, 1 hour / session
+Description This course presents the fundamentals of object-oriented software design and development, computational methods and sensing for engineering, and scientific and managerial applications. It cover topics, including design of classes, inheritance, graphical user interfaces, numerical methods, streams, threads, sensors, and data structures. Students use Java™ programming language to complete weekly software assignments.</description>
+    </item>
+    
+    <item>
+      <title>Threads</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threads</title>
+      <link>http://example.org/sections/recitations/mit1_00s12_rec_10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/recitations/mit1_00s12_rec_10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threads and Sensors</title>
+      <link>http://example.org/sections/lecture-notes/mit1_00s12_lec_29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/sections/lecture-notes/mit1_00s12_lec_29/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
