@@ -2,3 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Hugo Single Course Prototype"
 theme = "ocw-course-hugo-theme"
+staticDir = ["themes/ocw-course-hugo-theme/static", "themes/ocw-course-hugo-theme/dist"]
