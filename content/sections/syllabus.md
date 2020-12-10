@@ -19,6 +19,8 @@ Recitations: 1 session / week, 1 hour / session
 
 This is a test edit from the Forestry UI...
 
+And another...
+
 This course presents the fundamentals of object-oriented software design and development, computational methods and sensing for engineering, and scientific and managerial applications. It cover topics, including design of classes, inheritance, graphical user interfaces, numerical methods, streams, threads, sensors, and data structures. Students use Java™ programming language to complete weekly software assignments.
 
 ## Class Format
