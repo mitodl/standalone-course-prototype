@@ -7,7 +7,7 @@
   "devDependencies": {}
  },
  "dependencies": {
-  "gulp": "^4.0.2"
+  "gulp": "^5.0.0"
  },
  "devDependencies": {},
  "name": "standalone-course-prototype",
